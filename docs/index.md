@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "海星来来の文档站"
   text: "Powered by VitePress"
-  tagline: 心中的憧憬与向往 ，一如海祇岛上的那片珊瑚森林
+  tagline: 心中的憧憬与向往，一如海祇岛上的那片珊瑚森林
   actions:
     - theme: alt
       text: 返回我的博客
