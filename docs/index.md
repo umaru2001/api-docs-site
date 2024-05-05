@@ -4,22 +4,21 @@ layout: home
 
 hero:
   name: "海星来来の文档站"
-  text: "海星来来の文档站 Powered by VitePress"
-  tagline: My great project tagline
+  text: "Powered by VitePress"
+  tagline: ，一如海祇岛上的那片珊瑚森林
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 返回我的博客
+      link: https://blog.pengdonglai.com
+    - theme: brand
+      text: 从这里开始
+      link: /start
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 精心定制
+    details: 功能都是 VitePress 自带的，我只负责搬运内容
+  - title: 功能强大
+    details: 都是做的好玩，往往可以 Google 到更好的
+  - title: 文档完全
+    details: 毕竟我只会这个，不然怎么上班和服务端 battle
 ---
-

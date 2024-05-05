@@ -1,4 +1,5 @@
 node_modules/
 .history
 docs/.vitepress/dist/
+docs/.vitepress/cache/
 pnpm-lock.yaml
