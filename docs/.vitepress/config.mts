@@ -11,6 +11,11 @@ export default defineConfig({
       { text: 'APIs', link: '/start' }
     ],
 
+    footer: {
+      message: 'Powered by VitePress',
+      copyright: '海星来来@2024',
+    },
+
     sidebar: [
       {
         text: '从这里开始',
