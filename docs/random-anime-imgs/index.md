@@ -27,4 +27,4 @@ Email：<donglaistarfish@gmail.com>
 
 ## 感谢
 
-感谢 [Jitsu](https://blog.jitsu.top/)，我从他的博客里面下到了第一批图片，所以这个 API 在初期的图片都是来源于他，并也从他的 API 文档里面直接借鉴了部分，`<s>`毕竟感觉大家写的都差不多`</s>`
+感谢 [Jitsu](https://blog.jitsu.top/)，我从他的博客里面下到了第一批图片，所以这个 API 在初期的图片都是来源于他，并也从他的 API 文档里面直接借鉴了部分，<s>毕竟感觉大家写的都差不多</s>
