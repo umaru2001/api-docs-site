@@ -27,7 +27,8 @@ export default defineConfig({
         text: '随机二次元图片',
         items: [
           { text: '关于 API 的说明', link: '/random-anime-imgs/' },
-          { text: '请求方法和参数', link: '/random-anime-imgs/params' },
+          { text: 'v1 参数说明', link: '/random-anime-imgs/params' },
+          { text: 'v2 参数说明', link: '/random-anime-imgs/params2' },
           { text: '返回结果', link: '/random-anime-imgs/results' },
         ]
       },

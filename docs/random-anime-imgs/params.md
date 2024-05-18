@@ -1,11 +1,20 @@
 ---
 outline: deep
 ---
-# 请求链接和参数
+# v1 说明文档
+
+v1 返回的图片是我自己存储的，里面所有的图片都做了优化，只会下发 `WebP` 格式的图片。
+图片大小和原图 `original` 保持一致，但是大小和 `small` 相仿。
+访问速度应该优于 v2。但是 v1 存在访问较多访问限额。
+图源没有 v2 丰富。
 
 ## 请求链接
 
 [https://moe.starfishdl.site/api/setu/v1](https://moe.starfishdl.site/api/setu/v1)
+
+## 请求方法
+
+`GET`
 
 ## 请求参数
 
