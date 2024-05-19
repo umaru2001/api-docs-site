@@ -15,7 +15,7 @@
 涩图看多了对身体不好，人要学会节制。
 
 > [!Tip]
-> 正能量，从你我他做起。
+> 拥抱正能量，从你我他做起。
 > 推荐阅读我的博客文章，了解博主积极向上的一面：
 > 1. [了解下博主的爱好——古典音乐系列](https://blog.pengdonglai.com/2024/05/12/chopin-masterpieces/)
 > 2. [围观博主 2023 精彩的一年](https://blog.pengdonglai.com/2024/01/09/2023-summary/)
@@ -38,4 +38,4 @@ Email：<donglaistarfish@gmail.com>
 
 ## 感谢
 
-感谢 [Jitsu](https://blog.jitsu.top/)，我从他的博客里面下到了第一批图片，所以这个 API 在初期的图片都是来源于他，并也从他的 API 文档里面直接借鉴了部分，`<s>`毕竟感觉大家写的都差不多`</s>`
+感谢 [Jitsu](https://blog.jitsu.top/)，我从他的博客里面下到了第一批图片，所以这个 API 在初期的图片都是来源于他，并也从他的 API 文档里面直接借鉴了部分，<s>毕竟感觉大家写的都差不多</s>
