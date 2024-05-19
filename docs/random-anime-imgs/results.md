@@ -29,7 +29,8 @@ outline: deep
   "userId":"7198717",
   "width":635,
   "height":903,
-  "url":"https://i.pixiv.re/img-original/img/2018/01/24/21/17/10/66948362_p0.png"}
+  "url":"https://i.pixiv.re/img-original/img/2018/01/24/21/17/10/66948362_p0.png"
+}
 ```
 
 ## 302：跳转 `v1`

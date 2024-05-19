@@ -13,7 +13,7 @@ export default defineConfig({
 
     footer: {
       message: 'Powered by VitePress',
-      copyright: '海星来来@2024',
+      copyright: '海星来来@Since2024',
     },
 
     sidebar: [

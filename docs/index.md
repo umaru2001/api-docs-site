@@ -19,10 +19,10 @@ features:
     details: 功能都是 VitePress 自带的，我只负责搬运内容
   - icon: ⚡️
     title: 功能强大
-    details: 都是做的好玩，往往可以 Google 到更好的
+    details: 都是做的好玩，你往往可以 Google 到更好的
   - icon: 🛠️
-    title: 文档完全
-    details: 毕竟我只会这个，不然怎么上班和服务端 battle
+    title: 文档齐全
+    details: 不会写文档，怎么上班和服务端老哥们 battle
 ---
 
 海星来来写着好玩的，不好玩的东西他没空写。另外涩涩是人类第一生产力，不接受反驳。
