@@ -1,0 +1,29 @@
+.nav-style {
+  header {
+    background-color: var(--vp-c-bg);
+  }
+  
+  aside.VPSidebar {
+    display: none;
+  }
+  
+  div.VPLocalNav.has-sidebar {
+    padding-left: 0 !important;
+  }
+  
+  div.VPLocalNav.has-sidebar .menu {
+    display: none;
+  }
+  
+  div.VPLocalNav.has-sidebar .items {
+    left: 32px;
+  }
+  
+  div.VPContent.has-sidebar {
+    padding-left: 0 !important;
+  }
+  
+  .VPDoc.has-aside .content-container {
+    max-width: 1088px !important;
+  };
+};

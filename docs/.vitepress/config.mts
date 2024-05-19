@@ -7,8 +7,10 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'APIs', link: '/start' }
+      { text: '主页', link: '/' },
+      { text: '文档', link: '/start' },
+      { text: '导航', link: '/nav/index' },
+      { text: '博客', link: 'https://blog.pengdonglai.com' },
     ],
 
     footer: {
