@@ -10,6 +10,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '文档', link: '/start' },
       { text: '导航', link: '/nav/index' },
+      { text: '主站', link: 'https://pengdonglai.com' },
       { text: '博客', link: 'https://blog.pengdonglai.com' },
     ],
 

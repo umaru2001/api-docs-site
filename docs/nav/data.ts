@@ -1223,70 +1223,6 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: "机场",
-    items: [
-      {
-        "title": "丛雨 VPN",
-        "link": "https://congyu.moe/",
-        "icon": "发布站点：https://cn.congyu.org/favicon.svg",
-        "desc": "moe 被墙。发布站点：https://cn.congyu.org/，防止失联。机场主好像是柚子厨。"
-      },
-      {
-        "title": "tutucloud",
-        "link": "https://qiang.tutucloud.shop/",
-        "desc": "速度很快，比较便宜并且支持不限时流量。"
-      },
-      {
-        "title": "起飞机场",
-        "link": "https://www.qifeijiasuapp.com/zh-hans",
-        "icon": "https://www.qifeijiasuapp.com/items/vpn1_qifei/files/inline-images/logo-cn-vpnweb.png",
-        "desc": "免费，效果还可以。"
-      },
-      {
-        "title": "RabbitPro",
-        "link": "https://rabbitpro.net/",
-        "icon": "https://rabbitpro.net/favicon.ico",
-        "desc": "一直在用，感觉不太会跑路，有点贵。"
-      },
-      {
-        "title": "品云机场导航",
-        "link": "https://52.mk/",
-        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly81Mi5taw==",
-        "desc": "作者很懒，没有填写描述。"
-      },
-      {
-        "title": "Sub Converter",
-        "link": "https://sub-web.netlify.app/",
-        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9zdWItd2ViLm5ldGxpZnkuYXBw",
-        "desc": "作者很懒，没有填写描述。"
-      },
-      {
-        "title": "PAC",
-        "link": "https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac",
-        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29t",
-        "desc": "作者很懒，没有填写描述。"
-      },
-      {
-        "title": "订阅转换",
-        "link": "https://bianyuan.xyz/",
-        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9iaWFueXVhbi54eXo=",
-        "desc": "作者很懒，没有填写描述。"
-      },
-      {
-        "title": "V2Ray",
-        "link": "https://itlanyan.com/v2ray-clients-download/",
-        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9pdGxhbnlhbi5jb20=",
-        "desc": "作者很懒，没有填写描述。"
-      },
-      {
-        "title": "SSR",
-        "link": "https://ssr.tools/",
-        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9zc3IudG9vbHM=",
-        "desc": "作者很懒，没有填写描述。"
-      },
-    ],
-  },
-  {
     title: "磁力搜索",
     items: [
       {
@@ -1791,6 +1727,65 @@ export const NAV_DATA: NavData[] = [
   {
     title: "机场合集",
     items: [
+      {
+        "title": "丛雨 VPN",
+        "link": "https://congyu.moe/",
+        "icon": "发布站点：https://cn.congyu.org/favicon.svg",
+        "desc": "moe 被墙。发布站点：https://cn.congyu.org/，防止失联。机场主好像是柚子厨。"
+      },
+      {
+        "title": "tutucloud",
+        "link": "https://qiang.tutucloud.shop/",
+        "desc": "速度很快，比较便宜并且支持不限时流量。"
+      },
+      {
+        "title": "起飞机场",
+        "link": "https://www.qifeijiasuapp.com/zh-hans",
+        "icon": "https://www.qifeijiasuapp.com/items/vpn1_qifei/files/inline-images/logo-cn-vpnweb.png",
+        "desc": "免费，效果还可以。"
+      },
+      {
+        "title": "RabbitPro",
+        "link": "https://rabbitpro.net/",
+        "icon": "https://rabbitpro.net/favicon.ico",
+        "desc": "一直在用，感觉不太会跑路，有点贵。"
+      },
+      {
+        "title": "品云机场导航",
+        "link": "https://52.mk/",
+        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly81Mi5taw==",
+        "desc": "作者很懒，没有填写描述。"
+      },
+      {
+        "title": "Sub Converter",
+        "link": "https://sub-web.netlify.app/",
+        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9zdWItd2ViLm5ldGxpZnkuYXBw",
+        "desc": "作者很懒，没有填写描述。"
+      },
+      {
+        "title": "PAC",
+        "link": "https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac",
+        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29t",
+        "desc": "作者很懒，没有填写描述。"
+      },
+      {
+        "title": "订阅转换",
+        "link": "https://bianyuan.xyz/",
+        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9iaWFueXVhbi54eXo=",
+        "desc": "作者很懒，没有填写描述。"
+      },
+      {
+        "title": "V2Ray",
+        "link": "https://itlanyan.com/v2ray-clients-download/",
+        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9pdGxhbnlhbi5jb20=",
+        "desc": "作者很懒，没有填写描述。"
+      },
+      {
+        "title": "SSR",
+        "link": "https://ssr.tools/",
+        "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9zc3IudG9vbHM=",
+        "desc": "作者很懒，没有填写描述。"
+      },
       {
         "title": "低价机场",
         "link": "https://xn--6nq0hk9tdjr.com/",
