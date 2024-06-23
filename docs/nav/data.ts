@@ -842,7 +842,7 @@ export const NAV_DATA: NavData[] = [
       },
       {
         "title": "忧郁的loli",
-        "link": "https://acggal.com/",
+        "link": "https://ttloli.com/",
         "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly9hY2dnYWwuY29t",
         "desc": "作者很懒，没有填写描述。"
       },
@@ -872,7 +872,7 @@ export const NAV_DATA: NavData[] = [
       },
       {
         "title": "忧郁的弟弟",
-        "link": "https://www.kkgal.com/",
+        "link": "https://www.ttloli.com/",
         "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly93d3cua2tnYWwuY29t",
         "desc": "作者很懒，没有填写描述。"
       },
