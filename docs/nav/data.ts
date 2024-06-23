@@ -1448,13 +1448,13 @@ export const NAV_DATA: NavData[] = [
         "title": "移动芯片排行",
         "link": "https://www.socpk.com/",
         "icon": "https://www.socpk.com/favicon.ico",
-        "desc":  "来自极客湾的测评"
+        "desc": "来自极客湾的测评"
       },
       {
         "title": "显卡天梯图",
         "link": "https://tools.miku.ac/gpu_rank/",
         "icon": "//favicon.rss.ink/v1/aHR0cHM6Ly90b29scy5taWt1LmFj",
-        "desc":  "来自 MikuTools 的测评"
+        "desc": "来自 MikuTools 的测评"
       },
       {
         "title": "CPU 天梯图",
