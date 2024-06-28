@@ -3,4 +3,5 @@ node_modules/
 docs/.vitepress/dist/
 docs/.vitepress/cache/
 pnpm-lock.yaml
+package-lock.json
 *.js
